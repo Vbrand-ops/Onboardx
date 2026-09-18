@@ -1,0 +1,12 @@
+OnboardX/
+
+├── app.py
+├── requirements.txt
+├── Employees/
+│
+├── uploads/
+│
+└── utils/
+    ├── extractor.py
+    ├── folder_creator.py
+    └── document_classifier.py
